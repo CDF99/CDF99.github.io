@@ -1,4 +1,15 @@
-.student-of-the-month {
-  border-bottom: 5px solid red;
+.header {
+  border-bottom: 5px solid;
 }
-
+.Date {
+  border-bottom: 5px solid;
+}
+.helper {
+  border-bottom: 5px solid;
+}
+.student-of-the-month {
+  border-bottom: 5px solid;
+}
+.volunteering {
+  border-bottom: 5px solid;
+}
