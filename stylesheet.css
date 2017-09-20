@@ -14,3 +14,9 @@
 .volunteering {
   border-bottom: 5px solid;
 }
+.on-the-left {
+  float: left;
+}
+.on-the-right {
+  float: right;
+}
